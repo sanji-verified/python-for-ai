@@ -83,6 +83,7 @@ if not os.path.exists('data'):
 # Save to CSV
 data_frame.to_csv('data/Ghaziabad_weather.csv', index=False)
 print("Data saved to data/Ghaziabad_weather.csv")
+print("so cold in ghaziabad")
 
 
 
