@@ -21,3 +21,5 @@ tokyo = get_weather(35.65,139.83)
 print(f"ghaziabad temperature = {ghaziabad}")
 print(f"delhi temperature = {delhi}")
 print(f"tokyo temperature = {tokyo}")
+
+#weather is good
